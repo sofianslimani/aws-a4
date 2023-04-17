@@ -11,5 +11,23 @@
       "StackId": "arn:aws:cloudformation:eu-west-1:032836008096:stack/amplify-awsa4-dev-120930/f1effd60-dd07-11ed-b587-061f593ce3f1",
       "AmplifyAppId": "degy6u6jz4exj"
     }
+  },
+  "sof": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsa4-sof-121918-authRole",
+      "UnauthRoleArn": "arn:aws:iam::032836008096:role/amplify-awsa4-sof-121918-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::032836008096:role/amplify-awsa4-sof-121918-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awsa4-sof-121918-deployment",
+      "UnauthRoleName": "amplify-awsa4-sof-121918-unauthRole",
+      "StackName": "amplify-awsa4-sof-121918",
+      "StackId": "arn:aws:cloudformation:eu-west-1:032836008096:stack/amplify-awsa4-sof-121918/5083ea20-dd09-11ed-9fff-06fe33f975e1",
+      "AmplifyAppId": "degy6u6jz4exj"
+    },
+    "categories": {
+      "storage": {
+        "dynamo": {}
+      }
+    }
   }
 }
